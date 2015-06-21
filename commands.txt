@@ -1,0 +1,22 @@
+diff -u text1.txt text2.txt
+git diff commit-id1 commit-id2
+git log --stat
+git clone repository-url
+git config --global color.ui auto
+git checkout commit-id
+start notepad++ filename
+exit git log screen press q
+git init
+git status
+ls -a (list hidden files)
+git add text1.txt (move to staging area)
+git commit(Add message without a new line)
+git diff(working directory and staging area)
+git diff --staged(staging area and repository)
+git branch (displays current branch)
+git branch branch-name(create new branch)
+git checkout branch-name(switch to new branch)
+git log --graph --oneline branch-1 branch-2
+git merge branch-1 branch-2
+git show commit-id(compares it to parent branch)
+git branch -d branch-name(delete the branch)
